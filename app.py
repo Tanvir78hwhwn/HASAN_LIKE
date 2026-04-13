@@ -257,7 +257,6 @@ def handle_requests():
                 "UID": player_uid,
                 "ReleaseVersion": release_version,
                 "status": status
-                "credit": TikTok@tanvirx3x
             }
             return result
 
